@@ -1,3 +1,5 @@
 # ChatSample2
 
-Developed with Unreal Engine 4
+チャット機能のサンプルプログラムです。ネットワーク機能の参考にしていただければ幸いです。
+
+製作期間は約2日間です。
